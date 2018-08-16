@@ -1,7 +1,7 @@
 # 100DaysOfMLCode
 100 days of ML Code.
 
-Day 1 - Data Preprocessing
+# Day 1 - Data Preprocessing
 
 Step 1 : Import the required libraries
          There are two important libraries, Numpy and Pandas. Numpy for Mathematical functions and Pandas for importing and managing the            datasets.
@@ -20,3 +20,11 @@ Step 5: Split the data
         
 Step 6: Feature scaling
         Most of the machine learning algorithms use the eucledian distance between the two data points and for their computations. This can         acheived by Z-score normalisation. StandardScalar of sklearn.preprocessing is used for it.
+
+
+# Day 2 - Implementation of DataPreprocessing
+
+Please check the dataset https://github.com/mohanbabu8393/100DaysOfMLCode/blob/master/Dataset/SampleData.csv and the implementation here 
+https://github.com/mohanbabu8393/100DaysOfMLCode/blob/master/Implementation/Day1-Data%20Preprocessing.ipynb
+
+Thanks :) 
