@@ -1,0 +1,19 @@
+Country,Age,Salary,Sold-Categorical
+Illinois,34,58000,No
+California,44,52000,Yes
+Michigan,32,79000,No
+Colorado,34,83000,No
+New York,55,67000,Yes
+California,44,58000,Yes
+Michigan,,,No
+Colorado,48,,Yes
+New York,50,83000,No
+Arizona,37,67000,Yes
+Nevada,34,72000,No
+Utah,55,48000,Yes
+Michigan,44,54000,No
+Colorado,34,61000,No
+New York,55,72000,Yes
+Arizona,44,48000,Yes
+Nevada,44,67000,No
+Utah,23,72000,Yes
