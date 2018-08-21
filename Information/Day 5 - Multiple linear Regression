@@ -1,0 +1,31 @@
+Day 5 - Multiple Linear Regression
+
+Multiple Linear regression models the features between two or more features and  response by fitting a linear equation of the observed data.
+
+The steps to perform the multiple linear regression is same as that of the simple linear regression. The difference lies only in the evaluation.
+We can use it find out which variable has the highest impact on the predicted out and the relationship between the other variables.
+
+y=b0+b1x1+b2x2+b3x3+b4x4+....bnxn  ,  where y is the dependent variable and b0+b1x1... are the independent variables.
+
+Steps to implement the Multiple linear regression.
+
+1. Preprocess the dataset.
+        a. Import the libraries
+        b. Import he dataset
+        c. check for the missing data
+        d. Encode the categorical data
+        e. Featre scaling.
+        
+ 2. Fitting the model to the training set.
+        a. This step is exactly the same as for the simple linear regression 
+        b. So, we use LinearRegression class from sklearn.linear_model library
+        c. Then from the linearegression class, we make the object regressor.
+        d. using the fit() method, we fit the method of the linearRegression class.
+        
+3. Predicting the test results.
+        a. Now we will predict the results from the observations of the test set.
+        b. we will use the Y_pred. To predict the result we use predict() method of the linear regression class.
+        
+        
+Done :)
+
