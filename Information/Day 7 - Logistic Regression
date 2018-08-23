@@ -1,0 +1,16 @@
+Day 7 - Logistic regression
+
+Logistic regression is used for classification problems, used to predict group to which the current object under which observation it belongs to.
+
+Methodology:
+
+Logistic regression measures the relationship between the dependent variable and the one or more independent variables by estimating probablities 
+using its logistic function.
+
+The S shaped curve that can take any real valued number and map it to a value between the range of 0 and 1.
+
+The probablities are transformed into binary values in order to actually make a prediction.
+This is also called as the sigmoid function.
+
+Logistic regression always gives you a discrete result and linear regression always gives you a continuous result.
+
