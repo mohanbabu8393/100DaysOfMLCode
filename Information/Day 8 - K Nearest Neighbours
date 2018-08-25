@@ -1,0 +1,30 @@
+Day 8 - K Nearest Neighbours
+
+K Nearest Neighbours algorithm is a classification algorithm and can also be used as a regression. It is used in the supervised learning setting.
+
+K NN when used for the classification - the output is a class membership.
+
+There are three key elements of approach: a set of labeled objects, e.g., a set of stored records
+a distance between the objects and the value of K, the number of nearest neighbors.
+
+How to make the predictions?
+
+To classify an unlabeled object, the distance of this object to the labeled objects is computed,
+its K-nearest neighbors are identified, and the class label of the majority of the nearest
+neighbors is then used to determine the class label of the object.
+
+The most popular measure is the Euclidean distance.
+
+Euclidean Distance - It is calculated as the square root of the sum of the squared differences between a new point
+and an existing point across all input attributes. Other popular distance measures include:
+
+* Hamming Distance
+* Manhattan Distance
+* Minkowski Distance
+
+What is the value of K?
+
+Finding the value of K is not easy. A small value of K means that noise will have a higher influence 
+on the result and a large value make it computationally expensive.
+
+It is best to run each possible value for K.
