@@ -28,3 +28,8 @@ Finding the value of K is not easy. A small value of K means that noise will hav
 on the result and a large value make it computationally expensive.
 
 It is best to run each possible value for K.
+
+
+Day 9 - Implementation of KNN 
+
+Working on the Implementation of K nearest neighbours. Will be updating the code once the implementation is done.
