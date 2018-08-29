@@ -1,0 +1,22 @@
+Day 10 & 11 - Support Vector Machine.
+
+SVM 
+  Support vector machine is a supervised machine learning algorithm which can be used for both the classification and regression.
+ But it is mostly used in the classification problems. In the algorithm, we will point the data in the n-dimensional space with the value
+ of each feature being the value of the particular coordinate.
+ 
+ The data is been classified by the hyperplane and the the hyperplan which seperates the data and its classes very well. This algorithm output 
+ the optimal hyperplane which categorizes the new hyper plane.
+ 
+ 
+ The tuning paramaters that are involved in the SVM are
+ Kernel - The learning of the hyper plane in SVM is done by transforming the problem using some linear algebra. Polynomial and exponential 
+ kernel calculates seperation line in higher dimension
+ 
+ Regularisation - The optimisation will choose a smaller margin hyper plane if the hyperplane does a better job of getting all the training points
+ classified correctly.
+ 
+ Margin -  A margin is a seperation of line to the closest class points. A good margin is one where this seperation is larger for both the classes.
+ 
+ 
+ 
