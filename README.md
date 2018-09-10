@@ -28,3 +28,7 @@ Please check the dataset https://github.com/mohanbabu8393/100DaysOfMLCode/blob/m
 https://github.com/mohanbabu8393/100DaysOfMLCode/blob/master/Implementation/Day1-Data%20Preprocessing.ipynb
 
 Thanks :) 
+
+# Day 14 - Naive Bayes Classifier
+
+continuing Day 14 with Naive Bayes classifier. Digging deeper into support vector machines and its concepts.
