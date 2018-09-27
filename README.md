@@ -32,3 +32,9 @@ Thanks :)
 # Day 14 - Naive Bayes Classifier
 
 continuing Day 14 with Naive Bayes classifier. Digging deeper into support vector machines and its concepts.
+
+# Day 15 - Digging Deeper into Numpy
+
+Continuing with the Numpy concepts. Found a online book and working more in Numpy.
+
+
